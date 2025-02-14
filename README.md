@@ -19,28 +19,30 @@ Features:
 &nbsp;&nbsp;&nbsp;&nbsp;Computes Root Mean Squared Error (RMSE) for accuracy measurement  
 
 
-Technologies Used:
+## Technologies Used  
 
-Python
-NumPy & Pandas – Data manipulation and handling
-Scikit-learn – Train-test split for evaluation
-Random Sampling – Selects a user for recommendations
+- **Python**  
+- **NumPy & Pandas** – Data manipulation and handling  
+- **Scikit-learn** – Train-test split for evaluation  
+- **Random Sampling** – Selects a user for recommendations  
 
-Usage:
+## Usage  
 
-The system loads the dataset, cleans missing values, and splits data into train-test sets.
-It applies Matrix Factorization via Gradient Descent to learn user-item preferences.
-Predictions are generated, and top recommendations are provided for a given user.
-RMSE is calculated to evaluate the model’s performance.
+- The system loads the dataset, cleans missing values, and splits data into train-test sets.  
+- It applies **Matrix Factorization** via **Gradient Descent** to learn user-item preferences.  
+- Predictions are generated, and **top recommendations** are provided for a given user.  
+- RMSE is calculated to evaluate the model’s performance.  
 
-Results:
+## Results  
 
-The system successfully predicts movie ratings for unseen data.
-Achieved low RMSE, indicating good accuracy in rating predictions.
-Future Improvements
-🔹 Implementing a Deep Learning-based recommendation model
-🔹 Enhancing recommendations using content-based filtering
-🔹 Deploying the model as a web-based API
+- The system successfully predicts movie ratings for unseen data.  
+- Achieved **low RMSE**, indicating good accuracy in rating predictions.  
+
+## Future Improvements  
+
+- 🔹 Implementing a **Deep Learning-based** recommendation model  
+- 🔹 Enhancing recommendations using **content-based filtering**  
+- 🔹 Deploying the model as a **web-based API**  
 
 Contributing:
 
