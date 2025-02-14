@@ -6,10 +6,18 @@ This project implements a collaborative filtering-based recommendation system us
 
 Features:
 
-✅ User-Item Interaction Matrix – Built using IMDb scores
-✅ Matrix Factorization – Predicts ratings using Gradient Descent
-✅ Personalized Recommendations – Suggests top movies for a given user
-✅ Performance Evaluation – Computes Root Mean Squared Error (RMSE) for accuracy measurement
+✅ **User-Item Interaction Matrix**  
+&nbsp;&nbsp;&nbsp;&nbsp;Built using IMDb scores  
+
+✅ **Matrix Factorization**  
+&nbsp;&nbsp;&nbsp;&nbsp;Predicts ratings using Gradient Descent  
+
+✅ **Personalized Recommendations**  
+&nbsp;&nbsp;&nbsp;&nbsp;Suggests top movies for a given user  
+
+✅ **Performance Evaluation**  
+&nbsp;&nbsp;&nbsp;&nbsp;Computes Root Mean Squared Error (RMSE) for accuracy measurement  
+
 
 Technologies Used:
 
